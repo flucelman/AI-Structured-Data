@@ -44,7 +44,7 @@ python uploadFiles.py
 
 The console will prompt that the file has been uploaded. 
 
-V. Structuring Document Data 
+## V. Structuring Document Data 
 
 ```
 python main.py
@@ -68,6 +68,6 @@ python delete_all_files.py
 
 ## VII. Notes to Observe 
 
-Before structuring the data of your document, make sure that your document has been uploaded to the Alibaba Cloud BaiLian platform. 
+1. Before structuring the data of your document, make sure that your document has been uploaded to the Alibaba Cloud BaiLian platform. 
 
 2. If you want to process a new document, please delete the previously uploaded document first; otherwise, the previously uploaded file will also be converted repeatedly.
