@@ -19,7 +19,7 @@ git clone https://github.com/flucelman/AI-Structured-Data.git
 ```
 
 
-## II. According to Dependency 
+## II. Installation dependency 
 
 ```
 pip install openai
