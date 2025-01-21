@@ -1,6 +1,7 @@
 # AI-Structured-Data
 Call the api of the visual large model, ocr processing of the local file, by adjusting the prompt can let the large model output their own desired fixed format data. Simultaneous use of python asynchronous processing, you can process multiple files at the same time
 
+It can convert documents to word, txt, markdown, json and many other formats
 It is convenient for AI training, embeding of blocks, formatting and so on
 
 # Instructions 
