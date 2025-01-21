@@ -1,6 +1,6 @@
 # AI-Structured-Data
 Call the api of the visual large model, ocr processing of the local file, by adjusting the prompt can let the large model output their own desired fixed format data. Simultaneous use of python asynchronous processing, you can process multiple files at the same time
----
+
 # 说明
 
 本代码调用Qwen-Long模型，可支持word、pdf、markdown、epub、mobi等多种文档格式的解析和对话。并且赠送100万koen，Qwen-Long模型的输出token仅为0.002/1k Token
